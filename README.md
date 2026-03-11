@@ -2,7 +2,7 @@
 
 I'm building consumer apps that explore human intent, how it can be structured for the user to facilitate connection. 
 
-My proceess always starts with a deep understanding of the problem through user interviews, asking non-leading questions that avoid assumptions and explore pain points. I design UX with this knowledge in mind, prioritizing simplicity and user emotion.
+My process always starts with a deep understanding of the problem through user interviews, asking non-leading questions that avoid assumptions and explore pain points. I design UX with this knowledge in mind, prioritizing simplicity and user emotion.
 
 I utilize my techincal grasp of AI systems - namely context & prompt engineering, model tradeoffs, and performance evaluation - to gain a better scope of what's possible. Currently exploring multi-agent architecture, agent skills, and MCP connections to improve performance.
 
